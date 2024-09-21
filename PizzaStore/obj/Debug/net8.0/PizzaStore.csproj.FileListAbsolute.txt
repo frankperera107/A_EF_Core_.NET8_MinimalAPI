@@ -33,3 +33,4 @@ C:\A_EF_Core_.NET8_MinimalAPI\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
 C:\A_EF_Core_.NET8_MinimalAPI\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
 C:\A_EF_Core_.NET8_MinimalAPI\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
 C:\A_EF_Core_.NET8_MinimalAPI\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
+C:\A_EF_Core_.NET8_MinimalAPI\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
